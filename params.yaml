@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_mahaveer_thinkpad_p1_gen_6__34787: http://mahaveer-ThinkPad-P1-Gen-6:34787/
+rosversion: '1.16.0
+
+  '
+run_id: cd8b24ce-b153-11ee-b49a-30f6ef7fff1c
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
